@@ -1,4 +1,5 @@
-
+<img src="https://i.imgur.com/9mT45x5.png"></img>
+<br><br>
 This is my first Rust application, a simple CLI file-encryption tool utilizing sodiumoxide's privatebox.
 
 This was written as a POC for Discord in 6 hours with only two days of experience in Rust.
